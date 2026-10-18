@@ -1,0 +1,7 @@
+{
+  "name": "ines-bernardo-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio website and AI concierge for Inês Bernardo.",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" }
+}
